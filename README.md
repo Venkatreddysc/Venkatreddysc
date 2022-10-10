@@ -1,5 +1,5 @@
- Hi, I’m @Venkatreddysc
- I’m interested in Data Integration
+ Hi, I’m @Venkatreddysc.
+ I’m interested in Data analytics
  I’m currently learning SSIS tools and Data warehousing 
  I’m looking to collaborate on projects
  How to reach me venkatreddy99@gmail.com insta id venkatreddy_s_c
